@@ -1,0 +1,29 @@
+h1 {
+    color: #9e846D;
+}
+
+.fa-tree {
+    font-size: 75px;
+    color: green;
+}
+
+.fa-sun {
+    font-size: 75px;
+    color: yellow;
+}
+
+.fa-thermometer-quarter {
+    font-size: 75px;
+    color: red;
+}
+
+.fa-tint {
+    font-size: 75px;
+    color: blue;
+}
+
+.textField {
+    font-size: 75px;
+    margin-top: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
